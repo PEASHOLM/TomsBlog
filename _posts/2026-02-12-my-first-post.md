@@ -1,7 +1,7 @@
 markdown
 ---
 layout: post
-title: "My First Blog Post !q!"
+title: "My First Blog Postingggggg"
 date: 2026-02-12
 ---
 
